@@ -1,0 +1,5 @@
+{
+    "env": {
+        "MONGO_CONN_STRING": "mongodb+srv://AshwinSathian:tqfDa3vQGBZSksFH@shanzevents-dhwgt.mongodb.net/shanzEvents"
+    }
+}

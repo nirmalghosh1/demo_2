@@ -1,0 +1,5 @@
+{
+    "db": {
+        "connString": "mongodb+srv://AshwinSathian:tqfDa3vQGBZSksFH@shanzevents-dhwgt.mongodb.net/shanzEvents"
+    }
+}
