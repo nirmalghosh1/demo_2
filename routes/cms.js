@@ -14,10 +14,10 @@ router.get('/testimonial', (req, res, next) => {
     .catch(error => {
         console.log(error)
 
-        /* this page has been corrected */
+        /* this page has  corrected */
         res.status(500).json(
             {
-                message: 'Testimonial fetch error has occured',
+                message: 'Testimonial fetch error has ',
                 error: error
             }
         );
