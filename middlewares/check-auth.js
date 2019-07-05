@@ -7,7 +7,7 @@ module.exports = (req, res, next) => function() {
         next();
     } catch(error) {
         res.status(401).json({
-            message: 'You are not authenticated and is blocked'
+            message: 'You are not authenticated,.'
         });
     } 
 };
