@@ -32,7 +32,7 @@ router.post('/', (req, res, next) => {
     })
     .catch(error => {
         res.status(500).json({
-            message: "Rental Creation failed!"
+            message: "Rental Creation failed, please try again!"
         });
     });
 });
